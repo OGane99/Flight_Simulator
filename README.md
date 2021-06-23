@@ -7,6 +7,10 @@ W, A, S, D, E and Q control aircraft rotation, LShift and LControl control engin
 
 ![](Images/Aircraft1.JPG) 
 
+A short below clip showcasing the simulator running in real time.
+
+https://user-images.githubusercontent.com/80991754/123162604-cc904580-d43e-11eb-9bcf-5e8b89a1734f.mp4
+
 # Aircraft Physics
 
 Aircraft physics are modelled using [1], which presents equations for the coefficients of lift, drag and pitching moment for an aerodynamic surface given the angles of attack of both the airfoil and it’s associated flap.

@@ -5,6 +5,7 @@ Hello! This is a ‘realistic’ flight simulator with PID control I developed t
 If you want to try it out, clone this repository and drag the scene MainScene into your Unity game located at Flight_Simulator/Assets/GameScenes/MainScene. For game controls:
 W, A, S, D, E and Q control aircraft rotation, LShift and LControl control engine thrust, and T activates the PID Control System termed S.A.S (Stability Augmentation System).
 
+![](Images/Aircraft1.JPG) 
 
 # Aircraft Physics
 

@@ -19,7 +19,7 @@ Aircraft physics are modelled using [1], which presents equations for the coeffi
 
 # PID Control
 
-By pressing 'T', a proportional (P), integral (I) and derivative (D) controller or stability augmentation system (S.A.S) is activated for each of the aircrafts primary axes: roll, pitch, and yaw. This tuned S.A.S. attempts to limit the crafts angular velocity to 0 using experimentally chosen gain values for Kp, Ki, Kd in each axis. 
+By pressing 'T', a proportional (P), integral (I) and derivative (D) controller or stability augmentation system (S.A.S) is activated for each of the aircrafts primary axes: roll, pitch, and yaw. This tuned S.A.S. attempts to limit the crafts angular velocity to 0 using experimentally chosen gain values for Kp, Ki and Kd in each axis. 
 
 To see the PID controller in action, a small example is presented: An aerodynamically unbalanced aircraft is taking off from rest with and without PID control. In this first clip no S.A.S is activated and the aircraft proceeds to flip over upon takeoff.
 
